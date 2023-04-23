@@ -1,5 +1,5 @@
 
-* Applied Computer Science Student 🖥️
+* Applied Computer Science Student 🖥️ - first year -
 * elia.renzoni03@gmail.com :envelope:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elia-Renzoni&layout=compact)](https://github.com/Elia-Renzoni/README/edit/main/README.md)
