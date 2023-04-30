@@ -8,6 +8,6 @@
 #
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vscode,vim,latex" />
+    <img src="https://skillicons.dev/icons?i=c,latex,vscode,vim" />
   </a>
 </p>
