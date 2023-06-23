@@ -6,7 +6,7 @@
 ![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elia-Renzoni&show_icons=true&theme=trasparent)
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elia-Renzoni&progress=true)](https://github.com/Elia-Renzoni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elia-Renzoni&layout=pie)](https://github.com/Elia-Renzoni/github-readme-stats)
 
 #
 <p align="center">
