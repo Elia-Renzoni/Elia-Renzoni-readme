@@ -16,7 +16,7 @@
 </p>
 
 #
-<p align="center">
+
   [![](https://visitcount.itsvg.in/api?id=Elia-Renzoni&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
-</p>
+
 
