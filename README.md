@@ -1,5 +1,5 @@
 
-* Applied Computer Science 🖥️ - second year -
+* Applied Computer Science 🖥️ 
 * elia.renzoni03@gmail.com :envelope:
 
 #
