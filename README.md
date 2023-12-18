@@ -1,5 +1,6 @@
 
-* Applied Computer Science 🖥️ 
+* Applied Computer Science 🖥️
+* Currently Learning Distribuited System :star2:
 * elia.renzoni03@gmail.com :envelope:
 
 #
