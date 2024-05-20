@@ -27,6 +27,6 @@
 
   [![](https://visitcount.itsvg.in/api?id=Elia-Renzoni&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Elia-Renzoni)
 
 
