@@ -1,5 +1,5 @@
 
-* Applied Computer Science 🖥️
+* Computer Science 🖥️
 * Currently Learning Distributed System, Go and Backend Engineering :star2:
 * elia.renzoni03@gmail.com :envelope:
 
