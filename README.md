@@ -1,6 +1,6 @@
 
 * Computer Science student 🖥️
-* Currently Learning Distributed System, Go and Backend Engineering :star2:
+* Currently Learning Distributed System, Go and Sprin Boot :star2:
 * elia.renzoni03@gmail.com :envelope:
 
 #
