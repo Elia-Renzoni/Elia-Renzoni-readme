@@ -18,7 +18,7 @@
 
 #
 
-# Tools
+# Tools, Framework and Databases
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,idea,mongodb,postgres,eclipse,rabbitmq,spring" />
