@@ -1,6 +1,6 @@
 
 * Computer Science student 🖥️
-* Currently Learning Distributed System, Go and Spring Boot :star2:
+* Currently Learning Distributed System :star2:
 * elia.renzoni03@gmail.com :envelope:
 
 #
