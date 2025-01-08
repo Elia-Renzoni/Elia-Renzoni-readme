@@ -1,6 +1,6 @@
 
 * Computer Science student 🖥️
-* Currently Learning Distributed System :star2:
+* Currently Learning Distributed System and Bare Metal Programming:star2:
 * elia.renzoni03@gmail.com :envelope:
 
 #
